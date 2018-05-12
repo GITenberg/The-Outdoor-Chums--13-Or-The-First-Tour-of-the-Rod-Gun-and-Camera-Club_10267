@@ -1,5 +1,8 @@
 _repo: The-Outdoor-Chums--13-Or-The-First-Tour-of-the-Rod-Gun-and-Camera-Club_10267
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Allen, Quincy
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '3424'
     url: http://www.gutenberg.org/2009/agents/3424
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10267#The-Outdoor-Chums--13-Or-The-First-Tour-of-the-Rod-Gun-and-Camera-Club
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
